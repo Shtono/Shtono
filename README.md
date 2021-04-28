@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React JS,Node JS, Express and MongoDB
 - 💞️ I’m looking to land my first job
-- 
+
 ### 📫 How to reach me 
 * Email: shtonojs@gmail.com
 * Linkedin: https://www.linkedin.com/in/shtono-kuzmanov-4b8582210/
