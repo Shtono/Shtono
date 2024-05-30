@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shtono
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node JS, AWS and Docker
-- 💞️ I’m looking to land my first job
 
 <!---
 ### 📫 How to reach me 
